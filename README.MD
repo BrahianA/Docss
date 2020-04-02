@@ -84,3 +84,11 @@ export  $initHighlight;
 |--------|----------|-----------|
 |Brahian |Astudillo |1099683592|
 |Felipe  |Diaz      |1099683593|
+
+# Citas 
+esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior.
+> Esto es otra cita.
+
